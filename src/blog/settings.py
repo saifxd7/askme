@@ -41,10 +41,9 @@ INSTALLED_APPS = [
     'django.contrib.humanize',
     # third-party apps
     'crispy_forms',
-    'widget_tweaks',
-    'markdown_deux',
-    'pagedown',
+    'django_extensions',
     'django_editorjs',
+
 
     # apps
     'accounts',
